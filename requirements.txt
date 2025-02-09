@@ -1,0 +1,9 @@
+numpy
+ipykernel
+pandas
+seaborn
+matplotlib
+numpy
+matplotlib
+tqdm
+xgboost
