@@ -7,3 +7,6 @@ numpy
 matplotlib
 tqdm
 xgboost
+yfinance
+pandas_ta
+scikit-learn
