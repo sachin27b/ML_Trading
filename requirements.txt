@@ -10,3 +10,7 @@ xgboost
 yfinance
 pandas_ta
 scikit-learn
+torch
+PyWavelets
+EMD-signal
+filterpy
